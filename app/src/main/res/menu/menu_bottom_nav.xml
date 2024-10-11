@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_ten" android:title="Nguyễn Anh Hoàng" android:icon="@drawable/ic_ten"/>
+    <item android:id="@+id/menu_msv" android:title="22115053122213" android:icon="@drawable/ic_msv"/>
+    <item android:id="@+id/menu_lhp" android:title="124LTTD03" android:icon="@drawable/ic_lhp"/>
+</menu>
